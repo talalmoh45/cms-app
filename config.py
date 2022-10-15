@@ -34,7 +34,7 @@ class Config(object):
 
     CLIENT_ID = "02e0d16f-15d2-4040-8f93-10494d5fff70"
 
-    REDIRECT_PATH = "/getAToken"  # Used to form an absolute URL; must match to app's redirect_uri set in AAD
+    REDIRECT_PATH = "https://cmsproject1234.azurewebsites.net"  # Used to form an absolute URL; must match to app's redirect_uri set in AAD
 
     # You can find the proper permission names from this document
     # https://docs.microsoft.com/en-us/graph/permissions-reference
