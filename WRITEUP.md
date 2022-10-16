@@ -99,8 +99,14 @@
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.*
 
   
-  
 
+*Note: Screenshots can be found in FLaskWebProject/ScreenShots directory*
+
+### CMS App Link
+
+https://cmsapp1234.azurewebsites.net  
+
+*Note: i'm using udacity labs so the link has around 3 hours after that all the resources will be deleted*
 ## Resources
 
 [1]https://azure.microsoft.com/en-us/pricing/details/app-service/windows/
